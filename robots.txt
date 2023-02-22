@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://echoguotong.github.io/sitemap.xml
